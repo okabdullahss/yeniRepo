@@ -4,7 +4,6 @@ public class Class01 {
     //v2 kodlari...
     //v3 çalışmalar..
     //v4
-    //GitHub degisiklikleri
     //Local'den sevgilerle
 
 
